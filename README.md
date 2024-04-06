@@ -1,2 +1,1 @@
-#javaScript Projects
-Projects using javaScript
+#Projects using javaScript
