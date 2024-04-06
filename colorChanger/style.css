@@ -1,0 +1,31 @@
+#grey{
+    height: 60px;
+    width: 60px;
+    background-color: grey;
+}
+#red{
+    height: 60px;
+    width: 60px;
+    background-color: red;
+}
+#green{
+    height: 60px;
+    width: 60px;
+    background-color: green;
+}
+#purple{
+    height: 60px;
+    width: 60px;
+    background-color: purple;
+}
+.colourChanger{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 200px;
+}
+h2{
+    margin: 10px 10px;
+
+}
